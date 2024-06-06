@@ -68,6 +68,7 @@ Therefore, the decision for the project was to initialize the ExpansionTiles clo
 
 ## Now conducting some tests using multithreading through compute.
 
+Both codes are in the HomeBloc file, but the one without the use of 'comput' is commented out.
 
 Without the use of compute:
 
